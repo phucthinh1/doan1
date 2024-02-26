@@ -1,0 +1,164 @@
+.container {
+    height: 1000px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.containersmall {
+    height: 970px;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 17%;
+    position: relative;
+}
+
+.upper {
+    flex: 4
+}
+
+.lower {
+    flex: 6
+}
+
+.upper {
+    text-align: center;
+    background-color: rgb(199, 10, 10);
+}
+.chữ{
+    display: inline-block;
+    text-align: right;
+    margin-top: 100px;
+    margin-right: 70px;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+.lower {
+    display: flex;  
+    background-color: rgb(240, 244, 245);
+}
+
+.ảnh{
+    position: absolute; 
+    left: 60%;
+    width: 300px;
+    height: auto;
+}
+
+.họ{
+    margin-top: 50px;
+    text-align: left;
+    font-size: 50px;
+    color: white;
+}
+.tên{
+    text-align: left;
+    margin-right: 100px;
+    font-size: 80px;
+    color: white;
+}
+.tiêuđềphụ{
+    text-align: left;
+    font-size: small;
+    color: white;
+}
+
+.lienlac{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 30px;
+}
+.gmail{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.social{
+    margin-top: 20px;
+}
+.insta{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.phone{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.fb{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.skill{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.S{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.D{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.P{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.K{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.cotphai{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    padding-left: 20px;
+
+}
+
+
+.hoctap{
+    font-size: 30px;
+}
+
+.h{
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.W{
+    margin-top: 100px;
+}
+.work{
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 200px;
+}
+.B{
+    font-size: 24px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.S{
+    font-size: 24px;
+    margin-top: 10px;
+}
+.A{
+    font-size: 24px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
